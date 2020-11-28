@@ -1,0 +1,12 @@
+{
+  "name": "InvestmentTracker",
+  "displayName": "InvestmentTracker",
+  "expo": {
+    "name": "InvestmentTracker",
+    "slug": "InvestmentTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
